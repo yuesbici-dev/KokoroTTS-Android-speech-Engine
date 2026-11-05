@@ -1,0 +1,6 @@
+{
+  "name": "Kokoro TTS Android Engine & Studio",
+  "description": "Offline Text-to-Speech engine powered by open-source Kokoro for Android with Jetpack Compose UI, local model storage manager, and native playback controller.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
